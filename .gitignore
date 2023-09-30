@@ -19,3 +19,9 @@ coverage
 dist
 .cache/
 .vuepress/dist
+.vscode/
+credentials.json
+*secret*
+token.json
+.coveralls.yml
+
